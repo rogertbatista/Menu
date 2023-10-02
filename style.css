@@ -13,7 +13,7 @@ html,body{
 }
 
 .menu {
-    width: 100%;
+    width: 95%;
 }
 
 .title {
@@ -61,7 +61,7 @@ html,body{
     .photo {
         border: 5px solid rgb(28, 28, 131);
         border-radius: 10px;
-        width: 280px;
+        width: 250px;
         margin-left: 20px;
     }
     
